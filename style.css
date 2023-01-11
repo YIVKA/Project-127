@@ -1,0 +1,32 @@
+#Scoreboard
+{
+    font-size: 20;
+    margin: left;
+    font-weight: bolder;
+}
+
+#Time
+{
+ font-size: 20;
+ margin: left;
+ font-weight: bolder;
+
+}
+
+#Drawn
+{
+    font-size: 30;
+    font-weight: bolder;
+}
+
+p
+{
+    font-size: 25;
+    font-weight: bold;
+}
+
+h1
+{
+    font-size: 40;
+    font-weight: bolder;
+}
